@@ -1,0 +1,16 @@
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\bin\Debug\net6.0-windows\Project_Chronometer.exe
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\bin\Debug\net6.0-windows\Project_Chronometer.deps.json
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\bin\Debug\net6.0-windows\Project_Chronometer.runtimeconfig.json
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\bin\Debug\net6.0-windows\Project_Chronometer.dll
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\bin\Debug\net6.0-windows\Project_Chronometer.pdb
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.Form_Chronometer.resources
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.dll
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\refint\Project_Chronometer.dll
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.pdb
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\Project_Chronometer.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Chronometer-App\Project_Chronometer\obj\Debug\net6.0-windows\ref\Project_Chronometer.dll
